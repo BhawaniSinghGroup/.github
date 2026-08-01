@@ -17,7 +17,7 @@ BSGroup is a technology group focused on creating innovative software, platforms
 
 ## 🌍 Vision
 
-To build globally respected companies that create lasting value for people, businesses, and communities.
+To build globally respected companies that create lasting value for people, businesses and communities.
 
 ## ⭐ Core Values
 
